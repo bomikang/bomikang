@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @bomikang (a.k.a Worldstarbomi XD)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Programming like java, jsp, sprinng framework and etc.. 
-- 💞️ I’m looking to collaborate on ... X
-- 📫 How to reach me ...
-
-<!---
-bomikang/bomikang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,4,30&height=300&section=header&text=BOMI%20,%20DEVELOPER.&fontColor=&fontSize=60&animation=blink&desc=Thank%20you%20for%20visiting%20my%20github.&descAlignY=65)
